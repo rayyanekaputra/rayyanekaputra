@@ -1,5 +1,4 @@
-# Hi there 👋
-![headerku] (https://pbs.twimg.com/profile_banners/1241721059549708289/1668590826/1500x500)
+#Once more.
 
 <!--
 **rayyanekaputra/rayyanekaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
